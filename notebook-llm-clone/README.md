@@ -287,4 +287,4 @@ If you encounter any issues:
 
 ---
 
-**Built with ❤️ using React.js + Vite and Groq API**
+**Built with Ashutosh Maurya ❤️ using React.js + Vite and Groq API**
