@@ -1,3 +1,6 @@
+![screen-3](https://github.com/user-attachments/assets/472ca5c8-c1ad-4460-8a54-30265e18e13e)
+![screen-2 loader](https://github.com/user-attachments/assets/3b99ff34-2dc0-4ea8-9589-a638de567880)
+<img width="1127" height="860" alt="screen-1" src="https://github.com/user-attachments/assets/a1c82b16-af01-4675-a4e1-317467bb7211" />
 # Notebook Interface
 
 A modern, full-stack React.js application that allows users to upload PDF documents and have intelligent conversations about their content using the Groq API. The app features a split-screen interface with a chat panel on the left and a PDF viewer on the right.
